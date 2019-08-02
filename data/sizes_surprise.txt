@@ -1,0 +1,9 @@
+es_gsd	345545
+pt_gsd	255690
+no_nynorsk	241028
+de_gsd	234161
+grc_proiel	171478
+grc_perseus	162164
+fa_seraji	122574
+sv_talbanken	77268
+hy_armtdp	18595

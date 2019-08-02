@@ -1,0 +1,3 @@
+[submodule "sigmorphon"]
+	path = sigmorphon
+	url = https://github.com/sigmorphon/2019.git

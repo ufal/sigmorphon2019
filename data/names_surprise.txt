@@ -1,0 +1,9 @@
+UD_Ancient_Greek-PROIEL	grc_proiel
+UD_Ancient_Greek-Perseus	grc_perseus
+UD_Armenian-ArmTDP	hy_armtdp
+UD_German-GSD	de_gsd
+UD_Norwegian-Nynorsk	no_nynorsk
+UD_Persian-Seraji	fa_seraji
+UD_Portuguese-GSD	pt_gsd
+UD_Spanish-GSD	es_gsd
+UD_Swedish-Talbanken	sv_talbanken
