@@ -16,7 +16,6 @@ import zipfile
 
 import numpy as np
 
-sys.path.append("/net/projects/bert")
 import bert_wrapper
 
 if __name__ == "__main__":
